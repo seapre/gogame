@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
-
+title: Go for fun or boring
+description: Go is Golang, not Go Chess.
 plugins:
   - jekyll-relative-links
 relative_links:
