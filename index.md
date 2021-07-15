@@ -2,5 +2,5 @@
 * Just for fun 
 
 ## 1. HelloWorld
-* [the first program: HelloWorld](https://seapre.github.io/gogame/helloworld.html)
+* [the first program: HelloWorld](helloworld.html)
 ## 2. calculator
