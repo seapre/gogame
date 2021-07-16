@@ -51,6 +51,7 @@ func main() {
 * go application start from main() function 
 * main() function could call another functions
 * comment started with //, for programmer only, go ignore codes behind //
+
 ## 3.1 printMsg() function
 * printMsg() function receives a string, and print it out to the console
 * -- printMsg() --
