@@ -1,5 +1,6 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-sitemap
 theme: jekyll-theme-hacker
 title: Go game for fun or boring
 description: Go is Golang, not Go Chess.
@@ -37,3 +38,13 @@ hover-col: "#0085A1"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
+
+date_format: "%B %-d, %Y"
+
+timezone: "America/Edmonton"
+markdown: kramdown
+highlighter: rouge
+paginate: 5
+
+kramdown:
+  input: GFM
