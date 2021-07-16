@@ -3,6 +3,7 @@ plugins:
 theme: jekyll-theme-hacker
 title: Go game for fun or boring
 description: Go is Golang, not Go Chess.
+author: Seapre
 show_downloads: false
 relative_links:
   enabled: true
@@ -17,3 +18,9 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
