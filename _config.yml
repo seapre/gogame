@@ -3,7 +3,7 @@ plugins:
 theme: jekyll-theme-cayman
 title: Go for fun or boring
 description: Go is Golang, not Go Chess.
-show_downloads: true
+show_downloads: false
 relative_links:
   enabled: true
   collections: true
